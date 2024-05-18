@@ -1,7 +1,6 @@
 name = ('нейропластичность')
-print(len(name))
-print(name[::-1])
-print(name[1:16])
+print(name[15:0:-1])
+
 
 
 
